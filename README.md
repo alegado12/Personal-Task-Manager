@@ -4,7 +4,7 @@
 
 **Project Code:** WST21-PM-2026-SF  
 **Student Name:** Jasmine Angelyn Canedo  
-**Course & Year:** [Your Course & Year]  
+**Course & Year:** BSIT - 2nd 
 **Database Used:** SQLite  
 
 ## Features
