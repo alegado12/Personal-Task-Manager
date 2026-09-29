@@ -15,6 +15,14 @@
 - Delete Task
 - Update Status (Pending / Completed)
 
+
+![image alt](https://github.com/alegado12/Personal-Task-Manager/blob/a479e26b355c5a0ad158f71599d21f80dfc71a73/Screenshot_1.png)
+![image alt](https://github.com/alegado12/Personal-Task-Manager/blob/a479e26b355c5a0ad158f71599d21f80dfc71a73/Screenshot_2.png)
+![image alt](https://github.com/alegado12/Personal-Task-Manager/blob/a479e26b355c5a0ad158f71599d21f80dfc71a73/Screenshot_3.png)
+![image alt](https://github.com/alegado12/Personal-Task-Manager/blob/a479e26b355c5a0ad158f71599d21f80dfc71a73/Screenshot_4.png)
+
+
+
 ## Technologies Used
 
 - Laravel
